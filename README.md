@@ -6,7 +6,7 @@ This is just to store a lua function to parse S-expressions for a DSL I need.
 
 ## Development
 
-Install lunit
+Install luaunit
 ```
 luarocks install luaunit
 ```
